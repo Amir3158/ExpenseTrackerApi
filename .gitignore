@@ -6,3 +6,6 @@ package-lock.json
 
 # Ignore files related to API keys
 .env
+
+#Ignore database config file
+config/database.json
